@@ -1,0 +1,15 @@
+Dica que facilita no Visual Studio Code 
+Por exemplo, ao invés de digitar OL depois 4 Li's 
+pode usar o comando  ol>li*4   
+E depois tecla Tab que ele já faz toda a estrutura com os 4 LI's dentro.
+Isso serve para as outras tags também.
+
+--------------------------------------------------------------------------------
+
+Dica de ouro, pra quem quer ir pra linha de baixo sem quebrar o LI basta apertar CTRL + Enter.
+
+--------------------------------------------------------------------------------
+
+Uma coisa legal que dá para fazer quando você cria um id 
+é poder criar uma âncora na página que ao clicar te leva direto ao id específico, 
+exemplo: colocar no final da página um <a href="#principal">Clique para voltar ao início</a>
